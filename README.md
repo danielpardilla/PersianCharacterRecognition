@@ -548,16 +548,6 @@ These are ideas, **not** completed features.
 - Recognizing several characters or whole words
 - A `requirements.txt` with pinned versions
 
-## Contributors
-
-| Name | Role |
-|---|---|
-| Adrian Paul Sande | Model Training and Evaluation |
-| Marc Louie Marimon | Data Preprocessing and Analysis |
-| Alec Lacap | Backend Development and Model Integration |
-| Ella Marie Tiozon | Frontend Development and User Interface |
-| Adrienne Lalimarmo | Documentation and Presentation |
-| Earl Daniel Pardilla | Data Collection and Research |
 
 ## License
 
