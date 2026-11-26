@@ -30,8 +30,7 @@ A deep-learning system that recognizes **one isolated Persian letter** in an ima
 16. [Troubleshooting](#troubleshooting)
 17. [Preparing the Repository for GitHub](#preparing-the-repository-for-github)
 18. [Future Improvements](#future-improvements)
-19. [Contributors](#contributors)
-20. [License](#license)
+19. [License](#license)
 
 ---
 
